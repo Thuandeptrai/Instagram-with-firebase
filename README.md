@@ -1,2 +1,2 @@
-# The largest heading
-Instagram clone using reactjs and firebase
+# Instagram clone using reactjs and firebase
+
